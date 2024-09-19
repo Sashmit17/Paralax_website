@@ -8,7 +8,7 @@ Features
    - Product Cards: Displays a list of products with hover effects.
    - Navigation Bar: Easy navigation with smooth scrolling.
 
-Demo
+Demo https://sashmit17.github.io/Paralax_website/
    
 
 How to Use
